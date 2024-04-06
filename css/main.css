@@ -233,6 +233,13 @@ header{
 	letter-spacing:2px;
 }
 
+.back-video{
+	position: absolute;
+	width: 100%;
+	height: auto;
+
+}
+
 /*----------------------------------------------------
  	3.1 Menu Style
 ------------------------------------------------------*/
