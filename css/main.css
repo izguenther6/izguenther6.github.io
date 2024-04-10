@@ -556,7 +556,7 @@ header{
 	margin-bottom:-20px;
 }
 .expertiesico {
-	padding:70px 63px 70px 0;
+	padding:0 63px 70px 0;
 	text-align:right;
 	font-family:'Crimson Text',serif;
 	font-size:21px;
@@ -570,8 +570,13 @@ header{
 	margin-bottom:100px;
 }
 .expertiesdesc p {
-	padding-bottom:15px;
+	padding-bottom:25px;
 }
+
+.expertiesdesc p2 {
+	padding-bottom: 0px;
+}
+
 .expertiesdesc .ul c {
 	list-style-type: circle;
 	padding-bottom:15px;
