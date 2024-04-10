@@ -51,7 +51,7 @@ body {
 }
 a {
 	text-decoration:none;
-	color:#fff;
+	/*color:#fff;*/
 	outline:none;
 }
 img {
@@ -537,6 +537,16 @@ header{
 	6. Work Experience Style
 ------------------------------------------------------*/
 
+.myexperties2 {
+	background:#f8f8f8;
+}
+
+.myexperties2 .container{
+	padding-top:67px ;
+	padding-bottom:0 ;
+	margin-bottom:-20px;
+}
+
 .myexperties {
 	background:#fff;
 }
@@ -560,9 +570,15 @@ header{
 	margin-bottom:100px;
 }
 .expertiesdesc p {
-	padding-bottom:0;
+	padding-bottom:15px;
+}
+.expertiesdesc .ul c {
+	list-style-type: circle;
+	padding-bottom:15px;
+	padding-left: 35px;
 }
 .expertiesdesc h4 {
+	padding-bottom:0;
 	font-size:14px;
 	font-weight:300;
 	color:#UIzards;
@@ -571,6 +587,7 @@ header{
 	letter-spacing:2px;
 }
 .expertiesdesc h5 {
+	padding-bottom:0;
 	font-family: 'Crimson Text', serif;
 	color:#5b4c5c;
 	font-size:18px;
