@@ -24,6 +24,7 @@ $(document).ready(function(){
 			opacity:0
 		},200);
 		$('.navbar-wrapper').addClass('default-menu');
+
 		
 	}	
 	
