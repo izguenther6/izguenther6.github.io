@@ -202,10 +202,11 @@ h5{
 header{
 	position:relative;
 }
+
 .banner{
 	overflow:hidden ;
 	margin:0 auto !important;
-	background:#CACACA;
+	
 }
 .patternOverlay {
 	background:#372d38;
@@ -268,6 +269,7 @@ header{
     right: 0;
     top: 0;
     z-index: 9999;
+	
 }
 .logo{
 	float:left;
