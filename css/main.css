@@ -82,8 +82,16 @@ p{
 	font-size:13px;
 	line-height:27px;
 	font-weight:400;
-	padding-bottom:33px;
+	padding-bottom: 28px;
 	margin:0px;
+}
+
+pabout{
+	font-size:20px;
+	line-height:27px;
+	font-weight:400;
+	padding-bottom:33px;
+	
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	color:#000;
@@ -119,7 +127,7 @@ h4{
 	font-family: 'Montserrat', sans-serif;
 	font-size:21px;
 	line-height:24px;
-	padding-bottom:10px;
+	padding-bottom:0px;
 	font-weight:400;
 	margin:0px;
 }
@@ -128,7 +136,7 @@ h5{
 	font-size:17px;
 	color:#372d38;
 	line-height:24px;
-	padding-bottom:10px;
+	padding-bottom:0px;
 	font-weight:400;
 	margin:0px;
 }
@@ -176,6 +184,12 @@ h5{
 }
 .heading p{
 	line-height:25px;
+	font-size:30px;
+}
+
+.heading p2{
+	line-height:25px;
+	font-size:15px;
 }
 
 .topmar{
@@ -448,6 +462,7 @@ header{
 }
 .aboutus .heading p{
 	padding-bottom:41px;
+	font-size:30px;
 }
 .aboutus h4 {
 	font-size:16px;
@@ -464,6 +479,7 @@ header{
 	text-transform:uppercase;
 	font-weight:600;
 	border-radius: 0;
+	
 }
 .aboutus .btn-primary:hover {
 	color:#979497;
@@ -638,6 +654,7 @@ header{
 .protfolio .heading p{
 	padding-bottom:41px;
 	color:#242424
+	
 }
 .protfolio h4{
 	font-weight:700;
